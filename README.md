@@ -11,8 +11,8 @@
            - 📫 How to reach me:
       You can reach me through my Email
          Nwanonenyichukwuka@gmail.com.
-       Or through my social media handles
-In my homepage chuksjohnleo.github.io which am still working
+       Or through my social media 
+handles in my homepage chuksjohnleo.github.io which am still working
                      on.
 
 
