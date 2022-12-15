@@ -1,5 +1,5 @@
         - 👋 Hi, I’m @Chuksjohnleo
-  - 👀 I’m interested in web development.
+  - 👀 I’m into web development.
       - 🌱 I’m currently learning some
    JavaScript Libraries but I can develop with
     Vanilla JavaScript,react and Node.js.
