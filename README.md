@@ -3,7 +3,7 @@
    🌱 I’m currently learning some
    JavaScript Libraries but I can develop with
     Vanilla JavaScript,react and Node.js.
-##Skills:-
+## Skills:-
 * HTML 
 * CSS
 * JavaScript 
