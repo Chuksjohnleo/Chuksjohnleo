@@ -26,9 +26,6 @@
      You can reach me through my Email
      nwanonenyichukwuka@gmail.com.
      Or through my social media handles
-     in my [homepage](chuksjohnleo.github.io).
-
-
-
+     in my [homepage](https://chuksjohnleo.github.io).
 
 
