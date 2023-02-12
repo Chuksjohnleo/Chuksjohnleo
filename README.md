@@ -6,14 +6,14 @@
 ## Skills:-
 * HTML 
 * CSS
-* JavaScript 
+* Javascript 
 * React.js
 * Next.js
 * Jquery 
-* Node.js and many of it's frameworks such as
-  Express, mailer etc.
-* Ejs(**embedded JavaScript**)
-* Basic Postgresql 
+* Node.js and Express.js.
+* EJS(Embedded JavaScript)
+* Postgresql 
+* Mongodb
 
 
  ## 💞️ You can hire me
