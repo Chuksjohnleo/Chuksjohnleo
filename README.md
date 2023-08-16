@@ -1,4 +1,4 @@
- # 👋 Hi, I’m @Chuksjohnleo
+# 👋 Hi, I’m @Chuksjohnleo
    👀 I’m into web development.
    🌱 I’m currently learning some
    JavaScript Libraries but I can develop with
@@ -16,13 +16,13 @@
 * Mongodb
 
 
- ## 💞️ You can hire me
+## 💞️ You can hire me
     I’m currently looking to work 
     for or collaborate with anyone 
     on any JavaScript,React/Nextjs or 
     Node.js Projects.
 
- ## 📫 How to reach me:
+## 📫 How to reach me:
 
 You can reach me through my Email
 nwanonenyichukwuka@gmail.com.
