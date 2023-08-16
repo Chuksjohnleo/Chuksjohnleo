@@ -1,3 +1,4 @@
+![The web developer](https://chuksjohnleo.github.io/images/The_web_developer.png)
 # 👋 Hi, I’m @Chuksjohnleo
    👀 I’m into web development.
    🌱 I’m currently learning some
