@@ -3,7 +3,7 @@
    👀 I’m into web development.
    🌱 I’m currently learning some
    JavaScript Libraries but I can develop with
-    Vanilla JavaScript,react and Node.js.
+    Vanilla JavaScript, React/Next.js and Node.js.
 ## Skills:-
 * HTML 
 * CSS
