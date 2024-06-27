@@ -1,4 +1,4 @@
-![The web developer](https://chuksjohnleo.github.io/images/The_web_developer.png)
+![The web developer, Chuksjohnleo](https://chuksjohnleo.github.io/images/The_web_developer.png)
 # 👋 Hi, I’m @Chuksjohnleo
    👀 I’m into web development.
    🌱 I’m currently learning some
@@ -18,10 +18,10 @@
 
 
 ## 💞️ You can hire me
-    I’m currently looking to work 
-    for or collaborate with anyone 
-    on any JavaScript,React/Nextjs or 
-    Node.js Projects.
+I’m currently looking to work 
+for or collaborate with anyone 
+on any JavaScript,React/Nextjs or 
+Node.js Projects.
 
 ## 📫 How to reach me:
 
