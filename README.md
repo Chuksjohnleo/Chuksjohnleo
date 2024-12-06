@@ -1,4 +1,4 @@
-![The web developer, Chuksjohnleo](https://chuksjohnleo.github.io/images/The_web_developer.png)
+![The web developer, Chuksjohnleo](https://chuksjohnleo.github.io/images/logo.png)
 # 👋 Hi, I’m @Chuksjohnleo
    👀 I’m into web development.
    🌱 I’m currently learning some
